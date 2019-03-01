@@ -1,0 +1,19 @@
+h1, h3, h4 {
+  color :#ff0800;
+}
+
+#title {
+  background-color: #de3163;
+}
+
+.learn {
+  color: #d19fe8;
+}
+
+body {
+    background-color: #87a96b;
+    background-image: url("https://cdn.idntimes.com/content-images/community/2018/07/7b29aa1971d1cad5201a0482ab61cdd6_600x400.jpg");
+    /* background-image: url("../img/mera1.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center;
+}
